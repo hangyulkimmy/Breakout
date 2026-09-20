@@ -1,6 +1,6 @@
 # Breakout
 
-**[▶ Play in browser](https://hangyulkimmy.github.io/Breakout/)**
+**[Play in browser](https://hangyulkimmy.github.io/Breakout/)**
 
 A Breakout clone: bounce the ball, clear the bricks.
 
